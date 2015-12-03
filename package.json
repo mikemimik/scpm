@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mikemimik/scpm/issues"
   },
-  "homepage": "https://github.com/mikemimik/scpm#readme"
+  "homepage": "https://github.com/mikemimik/scpm#readme",
+  "dependencies": {
+    "maki": "martindale/maki"
+  }
 }
