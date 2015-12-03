@@ -1,0 +1,26 @@
+{
+  "name": "soundcloud-playlist-manager",
+  "version": "0.0.1",
+  "description": "Playlist manager for SoundCloud.",
+  "main": "scpm.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemimik/scpm.git"
+  },
+  "keywords": [
+    "soundcloud",
+    "playlist",
+    "manager",
+    "app",
+    "webapp"
+  ],
+  "author": "Michael Perrotte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikemimik/scpm/issues"
+  },
+  "homepage": "https://github.com/mikemimik/scpm#readme"
+}
